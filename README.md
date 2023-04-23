@@ -7,7 +7,7 @@ Trying out adding unit tests for my scheduling app using mocha, chai, and sinon
 ### Installing
 
 -   Install git
--   Clone the repo: `git clone https://github.com/MattBlakeQA/scheduling-app-tests.git`
+-   Clone the repo: `git clone https://github.com/mbblake/scheduling-app-tests.git`
 -   Install Node 18+
 -   Install NPM
 -   Install dependencies: `npm install`
